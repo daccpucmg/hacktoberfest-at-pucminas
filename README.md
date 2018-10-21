@@ -34,7 +34,7 @@ Por último, um PR consertando um erro de grafia em uma documentação é ok. 5 
 
 ## Aprendendo Git
 
-Esse repositório é essencialmente algo para acompanhar o meet up de Git que o DACC junto com a Coordenação do curso de Ciência da Computação oferece aos alunos anualmente no mês de outubro, então caso você não tenha participado do encontro, procure saber se algum ainda vai ocorrer em Outubro deste ano. Você pode verificar isso no [instagram]() e [facebook]() do DACC, ou entrar em contato com a coordenação do ICEI em [iceicoordcc@pucminas.br](mailto:iceicoordcc@pucminas.br).
+Esse repositório é essencialmente algo para acompanhar o meet up de Git que o DACC junto com a Coordenação do curso de Ciência da Computação oferece aos alunos anualmente no mês de outubro, então caso você não tenha participado do encontro, procure saber se algum ainda vai ocorrer em Outubro deste ano. Você pode verificar isso no [instagram](https://www.instagram.com/daccpucmg/) e [facebook](https://www.facebook.com/daccpucmg/) do DACC, ou entrar em contato com a coordenação do ICEI em [iceicoordcc@pucminas.br](mailto:iceicoordcc@pucminas.br).
 
 Caso já tenham acontecido os meet ups, você pode ver nosso material de apoio do meet up com o tutorial de git [neste link](https://bit.ly/hacktoberfest2018PUCMG).
 
@@ -66,9 +66,9 @@ Se você se sente um pouco mais confortável com contribuições, a [@jtemporal]
 
 Você também pode contribuir com a gente! 
 
-Neste repositório você pode contribuir de duas maneiras (não se esqueça de olhar como no nosso arquivo de [CONTRIBUTING.md]()):
+Neste repositório você pode contribuir de duas maneiras (não se esqueça de olhar como no nosso arquivo de [CONTRIBUTING.md](https://github.com/daccpucmg/hacktoberfest-at-pucminas/blob/master/.github/CONTRIBUTING.md)):
 
-- Adicionando fontes legais que ajudem outros alunos a contribuir neste e nos próximos Hacktoberfest's
-- Colocando seu nome e elogio/crítica/sugestão sobre a nossa iniciativa de meet up na nossa [lista de presença]()
+- Adicionando [fontes](https://github.com/daccpucmg/hacktoberfest-at-pucminas/blob/master/fontes-de-estudo.md) e [projetos](https://github.com/daccpucmg/hacktoberfest-at-pucminas/blob/master/projetos-para-contribuir.md) legais que ajudem outros alunos a contribuir neste e nos próximos Hacktoberfest's
+- Colocando seu nome e elogio/crítica/sugestão sobre a nossa iniciativa de meet up na nossa [lista de presença](https://github.com/daccpucmg/hacktoberfest-at-pucminas/tree/master/lista-de-presenca)
 
-Você também pode contribuir nos nossos outros repositórios. No [codefights-training]() você pode colocar resoluções de desafios de maratona de programação. No [monitoria-cc]() você pode contribuir com formas de ajudar calouros e futuros alunos  a entender um pouco mais de todas as matérias que te fazem sofrer hoje 😉
+Você também pode contribuir nos nossos outros repositórios. No [codefights-training](https://github.com/daccpucmg/codefights-training) você pode colocar resoluções de desafios de maratona de programação. No [monitoria-cc](https://github.com/daccpucmg/monitoria-cc) você pode contribuir com formas de ajudar calouros e futuros alunos  a entender um pouco mais de todas as matérias que te fazem sofrer hoje 😉
