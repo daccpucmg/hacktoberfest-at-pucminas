@@ -7,6 +7,8 @@ Se você veio pro nosso evento, tem medo ou acha que não tem conhecimento sufic
 
 > Organizador(a) / Palestrante / Espectador(a)
 
+[github](https://github.com/seu-username) / [twitter](https://twitter.com/seu-username) / [linkedin](https://linkedin.com/in/seu-username)
+
 <Coloca aqui pra gente o que cê achou do evento :) Aceitamos críticas, 
 sugestões e elogios! (até se cê quiser deixar aquele depoimento tipo 
 orkut, pode tá?!)>
